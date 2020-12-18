@@ -1,0 +1,128 @@
+﻿[
+  {
+    "Actividad": "Inicio de Clases",
+    "Fecha2020_1": "Ene. 20",
+    "Fecha2020_2": "Ago. 10",
+    "Fecha2020_1_Medicina": "Ene. 07",
+    "Fecha2020_2_Medicina": "Jun. 30"
+  },
+  {
+    "Actividad": "Semana de receso",
+    "Fecha2020_1": "Mar. 16 - Mar. 20",
+    "Fecha2020_2": "Oct. 05 - Oct. 09",
+    "Fecha2020_1_Medicina": "Abr. 06 - Abr. 10",
+    "Fecha2020_2_Medicina": "Oct. 05 - Oct. 09"
+  },
+  {
+    "Actividad": "Ultimo día de clases*",
+    "Fecha2020_1": "May. 23",
+    "Fecha2020_2": "Dic. 05",
+    "Fecha2020_1_Medicina": "May. 30",
+    "Fecha2020_2_Medicina": "Nov. 21"
+  },
+  {
+    "Actividad": "Exámenes finales**",
+    "Fecha2020_1": "May. 26 - Jun. 04",
+    "Fecha2020_2": "Dic. 07 - Dic. 17",
+    "Fecha2020_1_Medicina": "Jun. 01 - Jun. 06",
+    "Fecha2020_2_Medicina": "Nov. 23 - Nov. 28"
+  },
+  {
+    "Actividad": "Rotaciones clínicas de Especializaciones Médicas",
+    "Fecha2020_1": "",
+    "Fecha2020_2": "",
+    "Fecha2020_1_Medicina": "Feb. 01 - Jul. 31",
+    "Fecha2020_2_Medicina": "Ago. 03 - Ene. 29 de 2021"
+  },
+  {
+    "Actividad": "Consejería Académica",
+    "Fecha2020_1": "Ene. 20 - Jun. 03",
+    "Fecha2020_2": "Ago. 10 - Dic. 16",
+    "Fecha2020_1_Medicina": "",
+    "Fecha2020_2_Medicina": ""
+  },
+  {
+    "Actividad": "Bienvenida a padres de estudiantes primer semestre pregrado, encuentro virtual 9:00 a.m. a 12:00 p.m.",
+    "Fecha2020_1": "Feb. 08",
+    "Fecha2020_2": "Ago. 22",
+    "Fecha2020_1_Medicina": "",
+    "Fecha2020_2_Medicina": ""
+  },
+  {
+    "Actividad": "Open Week de posgrados",
+    "Fecha2020_1": "Mar. 18",
+    "Fecha2020_2": "Sep. 03 - Sep. 11",
+    "Fecha2020_1_Medicina": "",
+    "Fecha2020_2_Medicina": ""
+  },
+  {
+    "Actividad": "Actualización del Catálogo General 2020 por parte de los departamentos",
+    "Fecha2020_1": "Mar. 09 - May. 06",
+    "Fecha2020_2": "",
+    "Fecha2020_1_Medicina": "",
+    "Fecha2020_2_Medicina": ""
+  },
+  {
+    "Actividad": "Evaluación de cursos y profesores",
+    "Fecha2020_1": "May. 11 - May. 29",
+    "Fecha2020_2": "Nov. 17 - Dic. 04",
+    "Fecha2020_1_Medicina": "",
+    "Fecha2020_2_Medicina": ""
+  },
+  {
+    "Actividad": "Día del profesor",
+    "Fecha2020_1": "May. 13",
+    "Fecha2020_2": "",
+    "Fecha2020_1_Medicina": "",
+    "Fecha2020_2_Medicina": ""
+  },
+  {
+    "Actividad": "Inauguración día Paíz - A partir de las 2:00 p.m. no habrá clases para estudiantes de pregrado",
+    "Fecha2020_1": "",
+    "Fecha2020_2": "Sep. 21",
+    "Fecha2020_1_Medicina": "",
+    "Fecha2020_2_Medicina": ""
+  },
+  {
+    "Actividad": "XXIII Feria de Colegios",
+    "Fecha2020_1": "",
+    "Fecha2020_2": "Oct. 01",
+    "Fecha2020_1_Medicina": "",
+    "Fecha2020_2_Medicina": ""
+  },
+  {
+    "Actividad": "Feria Quiero Estudiar",
+    "Fecha2020_1": "",
+    "Fecha2020_2": "Oct. 10",
+    "Fecha2020_1_Medicina": "",
+    "Fecha2020_2_Medicina": ""
+  },
+  {
+    "Actividad": "Cumpleaños de la Universidad",
+    "Fecha2020_1": "",
+    "Fecha2020_2": "Nov. 12",
+    "Fecha2020_1_Medicina": "",
+    "Fecha2020_2_Medicina": ""
+  },
+  {
+    "Actividad": "Semana del Estudiante",
+    "Fecha2020_1": "",
+    "Fecha2020_2": "Sep. 28 - Oct. 02",
+    "Fecha2020_1_Medicina": "",
+    "Fecha2020_2_Medicina": ""
+  },
+  {
+    "Actividad": "Día de cierre Semana del Estudiante - A partir de las 2:00 p.m. no habrá clases",
+    "Fecha2020_1": "",
+    "Fecha2020_2": "Oct. 02",
+    "Fecha2020_1_Medicina": "",
+    "Fecha2020_2_Medicina": ""
+  },
+  {
+    "Actividad": "Semana Paíz",
+    "Fecha2020_1": "",
+    "Fecha2020_2": "Sep. 21 - Sep. 25",
+    "Fecha2020_1_Medicina": "",
+    "Fecha2020_2_Medicina": ""
+  }
+]
